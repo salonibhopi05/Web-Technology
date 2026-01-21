@@ -1,2 +1,2 @@
 # Web-Technology
-Repository for WT practicle
+Repository for WT practical
